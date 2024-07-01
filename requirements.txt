@@ -1,0 +1,6 @@
+psutil
+pyRAPL
+memory-profiler
+pandas
+pymongo
+matplotlib
